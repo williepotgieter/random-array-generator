@@ -1,0 +1,26 @@
+{
+  "name": "random-array-generator",
+  "version": "1.0.6",
+  "description": "Generates an array of unique random numbers using a Mersene-twister algorithm.",
+  "main": "./lib/generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mersenne-twister": "latest",
+    "array-has-duplicates": "latest"
+  },
+  "keywords": [
+    "random",
+    "array",
+    "mersenne-twister",
+    "unique",
+    "generate"
+  ],
+  "author": "Willie Potgieter <willie658@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williepot/random-array-generator"
+  }
+}

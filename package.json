@@ -1,6 +1,6 @@
 {
   "name": "random-array-generator",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Generates an array of unique random numbers using a Mersene-twister algorithm.",
   "main": "./lib/generator.js",
   "scripts": {
